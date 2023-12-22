@@ -43,7 +43,6 @@ dev_dependencies:
   googleapis: ^12.0.0
   google_sign_in: ^6.2.1
   http: ^1.1.2
-  url_launcher: ^6.2.2
   googleapis_auth: ^1.4.1
   path_provider: ^2.1.1
 

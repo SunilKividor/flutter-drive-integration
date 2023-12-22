@@ -12,8 +12,9 @@ import 'package:googleapis_auth/googleapis_auth.dart' as gAuth;
 import "package:http/http.dart" as http;
 
 const drivefileName = 'hexFile';
-// const fileMime = 'application/vnd.google-apps.document';
 const fileMime = 'application/vnd.google-apps.file';
+
+// const fileMime = 'application/vnd.google-apps.document';
 // const fileMime = 'text/plain';
 
 const appDataFolderName = 'AvexTest';
